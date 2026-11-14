@@ -4,4 +4,4 @@ Projeto de iniciação científica. Aqui, vamos versionar todo o projeto, desde 
 Organização:
 - /Aplicação Backend: backend da aplicação web para visualização dos dados.
 - /Aplicação Frontend: frontend da aplicação web.
-- /Hardware-Firmware: toda a parte de programação do microcontrolador Esp32, além dos esquemas de hardware.
+- /Hardware-Firmware: toda a parte de programação do microcontrolador ESP32, além dos esquemas de hardware.
